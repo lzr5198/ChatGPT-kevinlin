@@ -128,7 +128,7 @@ const tw: LocaleType = {
   },
   Store: {
     DefaultTopic: "新的對話",
-    BotHello: "請問需要我的協助嗎？",
+    BotHello: "你好，我是在Kevin Lin的網站上的chatgpt。請問需要我的協助嗎？",
     Error: "出錯了，請稍後再嘗試",
     Prompt: {
       History: (content: string) =>
